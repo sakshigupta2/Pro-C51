@@ -1,0 +1,27 @@
+
+
+.header{
+    background-color:#55ddee;
+    display:flex;
+    justify-content:space-around;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h2{
+    color:black;
+}
+h3{
+    color:orangered;
+}
+.text { text-align:center; font-size:80px;
+        text-shadow:5px 3px 5px blue, 0px 2px 3px red;
+		letter-spacing:1px;
+		word-spacing:2px;
+      }
+      body{
+        background-color:#88eeaa;
+    }
+    
